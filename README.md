@@ -2,8 +2,8 @@
 
 # Healing Buff
 
-[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-Healing-Buff/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-Healing-Buff/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-Healing-Buff?style=plastic)
+[![Build Status](https://github.com/ManticoreGamesInc/CC-Healing-Buff/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/CC-Healing-Buff/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/CC-Healing-Buff?style=plastic)
 
 ![Preview](/Screenshots/Main.png)
 
